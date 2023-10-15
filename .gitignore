@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+
+in
+out
+a.out
+
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode/
+
+.DS_Store
